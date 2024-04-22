@@ -1,6 +1,6 @@
 using System;
 
-class Lab9A
+class Linear_Search
 {
     public static void Main(string[] args)
     {
